@@ -4,6 +4,8 @@
     <list default="true" id="8dae0492-a088-4aeb-948b-3a2e0fd7ebbd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../JavaEnglishAlphabets/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaEnglishAlphabets/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JavaEnglishAlphabets/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaEnglishAlphabets/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEnglishAlphabets/out/production/JavaEnglishAlphabets/love/programming/Alphabets.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEnglishAlphabets/src/PrintAlphabets.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaEnglishAlphabets/src/PrintAlphabets.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JavaPrimitiveDataTypes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPrimitiveDataTypes/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MyDoggyProject" beforeDir="false" afterPath="$PROJECT_DIR$/../MyDoggyProject" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MyHomeWork1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyHomeWork1/.idea/workspace.xml" afterDir="false" />
@@ -81,7 +83,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551872587591" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551878065357" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
